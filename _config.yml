@@ -18,3 +18,15 @@ author:
   name: Anderson Mesquita França
   avatar:
   bio: Cientista de Dados e pesquisador em Saúde Pública
+  location         : "Somewhere"
+  email            : contato@andersonfranca.Mesquita
+links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      # url: "mailto:contato@andersonfranca.me"
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      # url: "andersonfranca.me"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      # url: "https://github.com/"
