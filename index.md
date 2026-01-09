@@ -1,5 +1,5 @@
 ---
-layout: author
+layout: single
 title: "Anderson Mesquita França"
 permalink: /
 ---
