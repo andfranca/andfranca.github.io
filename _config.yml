@@ -1,0 +1,20 @@
+title: Anderson Mesquita França
+description: Ciência de Dados, Inteligência Artificial e Saúde Pública
+
+remote_theme: mmistakes/minimal-mistakes
+plugins:
+  - jekyll-include-cache
+
+locale: pt-BR
+markdown: kramdown
+
+paginate: false
+search: false
+breadcrumbs: false
+
+minimal_mistakes_skin: default
+
+author:
+  name: Anderson Mesquita França
+  avatar:
+  bio: Cientista de Dados e pesquisador em Saúde Pública
